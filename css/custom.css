@@ -1,3 +1,8 @@
+#radioBtn .notActive{
+    color: #3276b1;
+    background-color: #fff;
+}
+
 .funkyradio div {
   clear: both;
   overflow: hidden;
@@ -291,3 +296,4 @@ font-size: 24px;
     }
     .dropdown.dropdown-lg .dropdown-menu {
         min-width: 500px;
+
